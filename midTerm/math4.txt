@@ -1,0 +1,4 @@
+Expectation = 4.5
+variance = 1.25
+mode = 6
+The median had a 50% chance of #6 and 50% of being #1-5 
